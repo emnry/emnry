@@ -1,13 +1,20 @@
-## Hi there 👋
+<h1> Hi, I'm Ethan ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=emnry&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/emnry?pet-id=691951957345299203"
-    width="600"
-    height="120"
-  />
-</a>
-  
-</a>
+```diff
++ Full stack develloper
+```
 
-[![](https://visitcount.itsvg.in/api?id=emnry&icon=0&color=0)](https://visitcount.itsvg.in)
+### Languages
+[![](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge)]()
+[![](https://img.shields.io/badge/CSS-0071BC?style=for-the-badge)]()
+[![](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge)]()
+[![](https://img.shields.io/badge/MySQL-00546B?style=for-the-badge)]()
+[![](https://img.shields.io/badge/PHP-878DB8?style=for-the-badge)]()
+[![](https://img.shields.io/badge/React-00D8FF?style=for-the-badge)]()
+[![](https://img.shields.io/badge/Python-3775A8?style=for-the-badge)]()
+[![](https://img.shields.io/badge/C-7F8B99?style=for-the-badge)]()
+
+### Logiciels
+[![](https://img.shields.io/badge/Github-0F82CF?style=for-the-badge)]()
+[![](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge)]()
+[![](https://img.shields.io/badge/VS_Code-0F82CF?style=for-the-badge)]()
