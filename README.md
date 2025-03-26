@@ -19,4 +19,4 @@
 [![](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge)]()
 [![](https://img.shields.io/badge/VS_Code-0F82CF?style=for-the-badge)]()
 
-[Projet IHM Figma](https://www.figma.com/design/mct8YLZTg4FSlwKZeCwEkN/IHM---Coffee-machine?t=96r62RG2phdJoYsi-0)
+[Projet IHM Figma : Machine à cafée](https://www.figma.com/design/mct8YLZTg4FSlwKZeCwEkN/IHM---Coffee-machine?t=96r62RG2phdJoYsi-0)
