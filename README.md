@@ -1,9 +1,5 @@
 <h1> Hi, I'm Ethan ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
 
-```diff
-+ Full stack developper
-```
-
 ### Languages
 [![](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge)]()
 [![](https://img.shields.io/badge/CSS-0071BC?style=for-the-badge)]()
